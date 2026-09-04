@@ -1,0 +1,3 @@
+- [neotoken secure-sharing frontend](neotoken-secure-sharing-frontend.md) — S3-only sharing UI: agreed architecture, what shipped, open decisions
+- [joker ports vs darwin](joker-ports-vs-darwin.md) — darwin stopped; joker now on default ports (frontend-s3 :5175, api :8000)
+- [joker detection vocabulary](joker-detection-vocabulary.md) — run `make load-names` or tokenize_name fails with DETECTION_VOCABULARY_UNAVAILABLE
