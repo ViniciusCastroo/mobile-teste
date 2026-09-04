@@ -1,0 +1,2 @@
+- [Playwright verification notes](playwright_verification_notes.md) — auth is in-memory (no page.goto after login), migrations need manual `migrate` in dev DB
+- [Realtime refresh](realtime-refresh.md) — how open pages auto-refresh on data changes (Channels `notify()` + `useAutoRefresh`), no polling
